@@ -16,7 +16,7 @@ Ensure you have **Docker** and **Docker Compose v2** installed on your target sy
 
 1. Clone this repository to your server:
    ```bash
-   git clone https://github.com
+   git clone REPO_URL_HERE
    cd prometheus-ubuntu-monitoring
    ```
 
